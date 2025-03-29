@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/AIMLOps/Projects/demo-mlflow-dvc/mlflow/mlruns/568034453319712241/bbd6767ed055465cb5a6187e733d6789/artifacts
+end_time: 1743222016749
+entry_point_name: ''
+experiment_id: '568034453319712241'
+lifecycle_stage: active
+run_id: bbd6767ed055465cb5a6187e733d6789
+run_name: run-01
+run_uuid: bbd6767ed055465cb5a6187e733d6789
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743221983026
+status: 3
+tags: []
+user_id: aniketrastogi
